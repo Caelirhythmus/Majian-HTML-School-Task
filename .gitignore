@@ -1,0 +1,14 @@
+# CodeWhale
+.codewhale/
+
+# OS files
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# Editor / IDE
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
